@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sjoseph24
-- 👀 I’m interested in music 
-- 🌱 I’m currently learning B.E AI & ML
+- 🌱 I’m currently studying B.E AI & ML
 
 
 <!---

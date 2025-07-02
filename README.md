@@ -35,9 +35,9 @@ I'm a passionate **AI/ML and tech enthusiast** with a strong foundation in progr
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/joseph-s-7b583224a/))  
-[![GitHub](https://github.com/Sjoseph24))  
-[![Email](mailto:sjoseph9566@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joseph-s-7b583224a/))  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/Sjoseph24))  
+[![Email](https://img.shields.io/badge/Email-joseph@email.com-red?style=flat&logo=gmail)](mailto:sjoseph9566@gmail.com)
 
 ---
 
